@@ -1,5 +1,5 @@
 %{
-// NAME : Priyanshu patil PRN: 25070521510
+
 
 #include <stdio.h>
 int comments = 0, keyword = 0, identifier = 0;
