@@ -1,6 +1,5 @@
 %{
 #include <stdio.h>
-// Name: Chhatrapati Supare 24070521202
 char convert_case(char c)
 {
     if (c >= 'a' && c <= 'z')
