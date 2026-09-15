@@ -1,6 +1,5 @@
 %{
 
-//Name: Priyanshu Patil PRN:25076521510
 #include <stdio.h>
 int count = 0;
 
